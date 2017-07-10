@@ -1,0 +1,4 @@
+(add-to-list 'load-path nil)
+(add-to-list 'load-path ".")
+(add-to-list 'load-path "/Users/reeb/.emacs-conf/mode/speedbar")
+(setq debug-on-error t)
