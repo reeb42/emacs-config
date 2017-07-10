@@ -132,7 +132,7 @@
     (insert-string (concat (std-get 'cc)
 			   header-login
 			   header-login-beg
-			   "cuissa_v"
+			   "Vincent Cuissard"
 			   header-login-mid
 			   domaine-name
 			   header-login-end))
